@@ -10,7 +10,7 @@
 [![GitHub: @DevanshDixitDD](https://img.shields.io/github/followers/DevanshDixitDD?label=follow&style=social)](https://github.com/DevanshDixitDD)
 [![Gmail: Devansh](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:devanshdixit2743@gmail.com)
 
-💡 &nbsp;I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
+💡 &nbsp;I am a Full-stack developer and a UI/UX Designer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 🎓 &nbsp;Currently in my 3rd year pursuing B.Tech from `Institute of Technology and Mangement, Gwalior` 🏫 in Information Technology.
 
