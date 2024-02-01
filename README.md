@@ -2,7 +2,7 @@
 
 ## 👋 About Me 👋
 
-> 💻 Full-stack Developer | UI/UX Designer | React + Node + Java + Figma
+> 💻 Full-stack Developer | 🎨 UI/UX Designer | React + Node + Java + Figma
 
 [![Twitter: @DevanshDix90156](https://img.shields.io/twitter/follow/DevanshDix90156?style=social)](https://twitter.com/DevanshDix90156)
 [![Linkedin: devansh-dixit](https://img.shields.io/badge/-Devansh%20Dixit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devanshsk/)](https://www.linkedin.com/in/DevanshDixit27/)
