@@ -33,5 +33,74 @@ I am always open to learn new things from various domains and give my absolute b
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
+**🐱 My GitHub Data** 
+
+> 📦 159.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 14 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+🌆 Daytime                7 commits           █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+🌃 Evening                24 commits          ██████████████████░░░░░░░   70.59 % 
+🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   8 commits           ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Tuesday                  7 commits           █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Wednesday                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Thursday                 6 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Friday                   9 commits           ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+Saturday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Sunday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+CSS                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+C++                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
+
+
+ Last Updated on 03/02/2024 18:34:33 UTC
 <!--END_SECTION:waka-->
