@@ -33,6 +33,8 @@ I am always open to learn new things from various domains and give my absolute b
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
 **🐱 My GitHub Data** 
@@ -74,16 +76,18 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               51 mins             █████████████████████████   99.80 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  51 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+client                   51 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -102,5 +106,5 @@ C++                      2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2024 18:34:33 UTC
+ Last Updated on 04/02/2024 18:35:24 UTC
 <!--END_SECTION:waka-->
