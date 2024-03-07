@@ -1,4 +1,4 @@
-![Banner](./DevanshBanner.png)
+![Banner](./Banner.png)
 
 ## 👋 About Me 👋
 
