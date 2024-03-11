@@ -10,26 +10,27 @@
 [![GitHub: @DevanshDixitDD](https://img.shields.io/github/followers/DevanshDixitDD?label=follow&style=social)](https://github.com/DevanshDixitDD)
 [![Gmail: Devansh](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:devanshdixit2743@gmail.com)
 
-💡 &nbsp;I am a Full-stack developer and a UI/UX Designer🧑‍💻 from 🏠Gwalior, M.P., India.
+💡  I'm a Full-stack Developer and UI/UX Designer based in Gwalior, M.P., India.
 
-🎓 &nbsp;Currently in my 3rd year pursuing B.Tech from `Institute of Technology and Mangement, Gwalior` 🏫 in Information Technology.
+🎓  Currently, I'm in my 3rd year pursuing B.Tech in Information Technology at the Institute of Technology and Management, Gwalior.
 
-🌱 &nbsp;My passion lies in creating solutions 🚩 to real life problems, developing web apps and discussing new ideas with enthusiastic peoples.
-I am always open to learn new things from various domains and give my absolute best as needed.
+🌱  Turning ordinary bytes into extraordinary sights. I make things look good, but most importantly, I make them meaningful. I don't just design. I create experiences that stick around and matter. 
 
-✍️ &nbsp;In my spare time, I like to play games 🎮, watch 📺 anime, or chilling to spotify🎧.
+Inspired by everyday moments, my journey is fueled by storytelling, collaboration, and the belief that aesthetics can forge genuine connections between consumers and brands. 🌟✨ #DesignPassionately
 
-💬 &nbsp;If you would like to talk 👋 , please feel free to reach out to me 😄.
+✍️  During my downtime, you'll find me immersed in gaming, indulging in anime, or enjoying tunes on Spotify.
+
+💬  Feel free to reach out if you'd like to connect or discuss anything further!
 
 ##  🎉 Skills  🎉
 - **FrontEnd**: `React` `Redux` `NextJS` `SASS` `Webpack`
-- **BackEnd**: `Node.js` `Express` `Spring` `JavaEE`
-- **Mobile**: `React Native` `Flutter` `Native Android`
+- **BackEnd**: `Node.js` `Express` `JavaEE`
+- **Mobile**:  `Flutter` `Native Android`
 - **UI Frameworks**: `Material-UI` `Bootstrap` `TailwindCSS` `Shadcn-UI`
 - **Web technologies**: `HTML5` `CSS3` `ES7+` `a11y`
-- **Databases**: `MongoDB` `MySQL` `PostgreSQL` `Oracle` `Redis`
+- **Databases**: `MongoDB` `MySQL` `Oracle` `Redis`
 - **Misc**: `Git` `Github` `Eslint` `Prettier` `Linux` `Docker` `Bash` `SocketIO`
-- **Languages**: `JavaScript` `TypeScript` `Java` `Kotlin` `Dart` `SQL`
+- **Languages**: `JavaScript` `TypeScript` `Java` `Dart` `SQL`
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
