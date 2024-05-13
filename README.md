@@ -40,6 +40,8 @@
 
 > 📦 238.4 kB Used in GitHub's Storage 
  > 
+> 🏆 76 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -73,18 +75,16 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 20 mins        ███████████████████████░░   91.25 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-eventease                1 hr 28 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -103,5 +103,5 @@ C++                      2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2024 18:35:47 UTC
+ Last Updated on 13/05/2024 18:35:46 UTC
 <!--END_SECTION:waka-->
