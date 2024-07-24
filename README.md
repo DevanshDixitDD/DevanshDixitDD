@@ -32,15 +32,13 @@
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%204%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 238.8 kB Used in GitHub's Storage 
  > 
-> 🏆 92 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,46 +46,6 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-🌆 Daytime                25 commits          ███████░░░░░░░░░░░░░░░░░░   26.04 % 
-🌃 Evening                47 commits          ████████████░░░░░░░░░░░░░   48.96 % 
-🌙 Night                  11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   17 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Tuesday                  29 commits          ████████░░░░░░░░░░░░░░░░░   30.21 % 
-Wednesday                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Thursday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Friday                   17 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Saturday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Sunday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               3 hrs 46 mins       █████████████████████████   98.41 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 50 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-portfolio-website        3 hrs 50 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  3 hrs 50 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -104,5 +62,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2024 18:37:59 UTC
+ Last Updated on 24/07/2024 18:40:56 UTC
 <!--END_SECTION:waka-->
