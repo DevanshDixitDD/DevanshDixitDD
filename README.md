@@ -40,8 +40,6 @@
 
 > 📦 347.1 kB Used in GitHub's Storage 
  > 
-> 🏆 105 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -103,5 +101,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2024 18:43:06 UTC
+ Last Updated on 28/09/2024 18:40:34 UTC
 <!--END_SECTION:waka-->
