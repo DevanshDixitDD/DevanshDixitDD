@@ -34,13 +34,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 347.0 kB Used in GitHub's Storage 
- > 
-> 🏆 105 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -103,5 +101,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2024 18:43:06 UTC
+ Last Updated on 24/10/2024 18:43:25 UTC
 <!--END_SECTION:waka-->
