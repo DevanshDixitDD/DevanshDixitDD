@@ -12,7 +12,7 @@
 
 💡  I'm a Full-stack Developer and UI/UX Designer based in Gwalior, M.P., India.
 
-🎓  Currently, I'm in my 3rd year pursuing B.Tech in Information Technology at the Institute of Technology and Management, Gwalior.
+🎓  Currently, I'm in my final year pursuing B.Tech in Information Technology at the Institute of Technology and Management, Gwalior.
 
 🌱  Turning ordinary bytes into extraordinary sights. I make things look good, but most importantly, I make them meaningful. I don't just design. I create experiences that stick around and matter. Inspired by everyday moments, my journey is fueled by storytelling, collaboration, and the belief that aesthetics can forge genuine connections between consumers and brands. 🌟✨ #DesignPassionately
 
