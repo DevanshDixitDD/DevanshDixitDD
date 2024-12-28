@@ -32,15 +32,13 @@
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 347.1 kB Used in GitHub's Storage 
- > 
-> 🏆 106 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,19 +73,19 @@ Sunday                   5 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               6 hrs 49 mins       ████████████████████████░   97.00 % 
-CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+TypeScript               7 hrs 18 mins       ████████████████████████░   97.20 % 
+CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  7 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio-website        7 hrs 1 min         █████████████████████████   100.00 % 
+portfolio-website        7 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  7 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -106,5 +104,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2024 18:41:43 UTC
+ Last Updated on 28/12/2024 18:40:22 UTC
 <!--END_SECTION:waka-->
