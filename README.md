@@ -32,7 +32,7 @@
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -73,18 +73,17 @@ Sunday                   5 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 26 mins       ████████████████████████░   95.60 % 
-CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+TypeScript               2 hrs               █████████████████████████   99.97 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio-website        4 hrs 38 mins       █████████████████████████   100.00 % 
+portfolio-website        2 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -103,5 +102,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2025 18:41:41 UTC
+ Last Updated on 02/01/2025 18:42:36 UTC
 <!--END_SECTION:waka-->
