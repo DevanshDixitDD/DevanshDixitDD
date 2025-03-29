@@ -32,13 +32,15 @@
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 347.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,18 +75,18 @@ Sunday                   5 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     1 hr 48 mins        ███████████████████████░░   90.18 % 
-CSS                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+HTML                     1 hr 53 mins        ██████████████████████░░░   86.70 % 
+CSS                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-VS Code                  2 hrs               █████████████████████████   100.00 % 
+VS Code                  2 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Smarten Spaces Complete W2 hrs               █████████████████████████   100.00 % 
+Smarten Spaces Complete W2 hrs 10 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs               █████████████████████████   100.00 % 
+Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -103,5 +105,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2025 18:47:42 UTC
+ Last Updated on 29/03/2025 18:42:28 UTC
 <!--END_SECTION:waka-->
