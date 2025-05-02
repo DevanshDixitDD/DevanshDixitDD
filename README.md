@@ -32,8 +32,6 @@
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2019%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -46,45 +44,6 @@
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                15 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-🌆 Daytime                14 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-🌃 Evening                49 commits          █████████████░░░░░░░░░░░░   53.85 % 
-🌙 Night                  13 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   19 commits          █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-Tuesday                  23 commits          ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-Wednesday                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Thursday                 11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Friday                   19 commits          █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-Saturday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -101,5 +60,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2025 18:46:59 UTC
+ Last Updated on 02/05/2025 18:46:24 UTC
 <!--END_SECTION:waka-->
