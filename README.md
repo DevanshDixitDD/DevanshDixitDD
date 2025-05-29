@@ -32,15 +32,13 @@
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 347.1 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,20 +73,20 @@ Sunday                   5 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               6 hrs 33 mins       ███████████████████████░░   91.99 % 
-JavaScript               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+TypeScript               9 hrs 5 mins        ████████████████████████░   94.10 % 
+JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  9 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-starter-template         6 hrs 33 mins       ███████████████████████░░   92.01 % 
-portfolior-website       33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Portfolio website        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+starter-template         9 hrs 5 mins        ████████████████████████░   94.11 % 
+portfolior-website       33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Portfolio website        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  7 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  9 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -107,5 +105,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2025 18:47:18 UTC
+ Last Updated on 29/05/2025 18:48:30 UTC
 <!--END_SECTION:waka-->
