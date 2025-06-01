@@ -38,7 +38,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 347.1 kB Used in GitHub's Storage 
+> 📦 347.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,17 +75,17 @@ Sunday                   5 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               9 hrs 42 mins       █████████████████████████   99.99 % 
+TypeScript               9 hrs 12 mins       █████████████████████████   99.99 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 42 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-starter-template         9 hrs 42 mins       █████████████████████████   100.00 % 
+starter-template         9 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -102,5 +104,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2025 18:44:44 UTC
+ Last Updated on 01/06/2025 18:45:27 UTC
 <!--END_SECTION:waka-->
