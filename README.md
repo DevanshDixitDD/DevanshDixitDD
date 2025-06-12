@@ -32,15 +32,13 @@
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 347.2 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,17 +73,20 @@ Sunday                   5 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               9 hrs 41 mins       █████████████████████████   99.96 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+TypeScript               12 hrs 14 mins      █████████████████████████   98.55 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  12 hrs 25 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-starter-template         9 hrs 41 mins       █████████████████████████   100.00 % 
+starter-template         12 hrs 25 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -104,5 +105,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2025 18:49:35 UTC
+ Last Updated on 12/06/2025 18:48:42 UTC
 <!--END_SECTION:waka-->
