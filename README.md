@@ -40,8 +40,6 @@
 
 > 📦 365.5 kB Used in GitHub's Storage 
  > 
-> 🏆 17 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -75,22 +73,16 @@ Sunday                   5 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 16 mins       █████████████████████████   98.91 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-DevanshPortfolio-main    2 hrs 6 mins        ███████████████████████░░   91.47 % 
-devansh-portfolio-website11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-devansh-dixit            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 18 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -109,5 +101,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2025 18:49:45 UTC
+ Last Updated on 27/06/2025 18:49:05 UTC
 <!--END_SECTION:waka-->
