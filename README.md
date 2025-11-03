@@ -46,45 +46,6 @@
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                21 commits          █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-🌆 Daytime                15 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-🌃 Evening                55 commits          █████████████░░░░░░░░░░░░   51.89 % 
-🌙 Night                  15 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   19 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-Tuesday                  23 commits          █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-Wednesday                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Thursday                 14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Friday                   19 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-Saturday                 18 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -101,5 +62,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2025 18:42:46 UTC
+ Last Updated on 03/11/2025 18:45:21 UTC
 <!--END_SECTION:waka-->
