@@ -75,17 +75,16 @@ Sunday                   5 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               12 mins             ████████████████████████░   96.67 % 
-CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-DevanshPortfolio-main    12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -104,5 +103,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 14/02/2026 18:59:17 UTC
+ Last Updated on 15/02/2026 19:00:52 UTC
 <!--END_SECTION:waka-->
