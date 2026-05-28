@@ -32,15 +32,13 @@
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%209%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 365.8 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2026
+> 🏆 3 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,45 +46,6 @@
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                27 commits          ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-🌆 Daytime                17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-🌃 Evening                59 commits          ████████████░░░░░░░░░░░░░   48.36 % 
-🌙 Night                  19 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   19 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Tuesday                  23 commits          █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Wednesday                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Thursday                 24 commits          █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-Friday                   19 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Saturday                 18 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JSON                     2 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Unknown Project          2 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -103,5 +62,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2026 20:32:10 UTC
+ Last Updated on 28/05/2026 20:41:32 UTC
 <!--END_SECTION:waka-->
