@@ -32,6 +32,8 @@
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-224%20hrs%2050%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -46,6 +48,50 @@
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                31 commits          ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+🌆 Daytime                18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+🌃 Evening                72 commits          █████████████░░░░░░░░░░░░   51.43 % 
+🌙 Night                  19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   21 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Tuesday                  23 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Wednesday                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Thursday                 25 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Friday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Saturday                 18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Sunday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               4 hrs 5 mins        ███████████████████████░░   91.65 % 
+MDX                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 24 mins       ███████████████████░░░░░░   76.07 % 
+Claude Code              1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+
+🐱‍💻 Projects: 
+des-portfolio-2026       4 hrs 28 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  4 hrs 28 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -62,5 +108,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:53:33 UTC
+ Last Updated on 25/07/2026 19:42:06 UTC
 <!--END_SECTION:waka-->
