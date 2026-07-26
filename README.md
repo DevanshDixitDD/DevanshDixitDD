@@ -38,9 +38,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 571.0 kB Used in GitHub's Storage 
+> 📦 572.5 kB Used in GitHub's Storage 
  > 
-> 🏆 21 Contributions in the Year 2026
+> 🏆 22 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,21 +51,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                31 commits          ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-🌆 Daytime                18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-🌃 Evening                72 commits          █████████████░░░░░░░░░░░░   51.43 % 
-🌙 Night                  19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+🌞 Morning                31 commits          █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+🌆 Daytime                18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+🌃 Evening                73 commits          █████████████░░░░░░░░░░░░   51.77 % 
+🌙 Night                  19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   21 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Tuesday                  23 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Wednesday                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Thursday                 25 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Friday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Saturday                 18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Sunday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Monday                   21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Tuesday                  23 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Wednesday                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Thursday                 25 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Friday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Saturday                 18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Sunday                   15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
 ```
 
 
@@ -75,21 +75,21 @@ Sunday                   14 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 5 mins        ███████████████████████░░   91.65 % 
-MDX                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TypeScript               3 hrs 59 mins       ████████████████████████░   94.88 % 
+MDX                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 24 mins       ███████████████████░░░░░░   76.07 % 
-Claude Code              1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+VS Code                  3 hrs 15 mins       ███████████████████░░░░░░   77.64 % 
+Claude Code              56 mins             ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
 
 🐱‍💻 Projects: 
-des-portfolio-2026       4 hrs 28 mins       █████████████████████████   100.00 % 
+des-portfolio-2026       4 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -108,5 +108,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:42:06 UTC
+ Last Updated on 26/07/2026 19:42:32 UTC
 <!--END_SECTION:waka-->
