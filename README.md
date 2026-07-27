@@ -32,7 +32,9 @@
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-224%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%2030%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -75,21 +77,40 @@ Sunday                   15 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 59 mins       ████████████████████████░   94.88 % 
-MDX                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               1 hr 33 mins        █████████████████████████   98.39 % 
+MDX                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 15 mins       ███████████████████░░░░░░   77.64 % 
-Claude Code              56 mins             ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+VS Code                  1 hr 12 mins        ███████████████████░░░░░░   75.53 % 
+Claude Code              23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
 
 🐱‍💻 Projects: 
-des-portfolio-2026       4 hrs 12 mins       █████████████████████████   100.00 % 
+des-portfolio-2026       1 hr 35 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 32 mins (34.27%)
+
+✍️ 6 lines written by AI, 171 lines written by hand (3.39% AI-written)
+
+🔤 6,151,550 Input Tokens, 29,358 Output Tokens
+
+💵 $18.90 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 4 AI Prompts
+
+Sonnet                   6 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 3.39% of written lines came from AI
+📝 Concise Prompter — average 94 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 96.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -108,5 +129,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:42:32 UTC
+ Last Updated on 27/07/2026 20:02:52 UTC
 <!--END_SECTION:waka-->
