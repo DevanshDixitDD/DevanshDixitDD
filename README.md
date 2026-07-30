@@ -77,39 +77,39 @@ Sunday                   15 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 4 mins         █████████████████████████   100.00 % 
+TypeScript               25 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  45 mins             ██████████████████░░░░░░░   70.21 % 
-Claude Code              19 mins             ███████░░░░░░░░░░░░░░░░░░   29.79 % 
+Claude Code              15 mins             ███████████████░░░░░░░░░░   61.44 % 
+VS Code                  9 mins              ██████████░░░░░░░░░░░░░░░   38.56 % 
 
 🐱‍💻 Projects: 
-des-portfolio-2026       1 hr 4 mins         █████████████████████████   100.00 % 
+des-portfolio-2026       25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
+Windows                  25 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 mins (44.13%)
+⏱ AI Coding Time: 19 mins (76.56%)
 
-✍️ 6 lines written by AI, 158 lines written by hand (3.66% AI-written)
+✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 5,059,352 Input Tokens, 21,290 Output Tokens
+🔤 1,970,630 Input Tokens, 16,322 Output Tokens
 
-💵 $15.50 Estimated AI Cost This Week
+💵 $6.16 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
-Sonnet                   6 lines             █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.66% of written lines came from AI
-📝 Concise Prompter — average 112 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 132 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 96.39% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -128,5 +128,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 19:51:34 UTC
+ Last Updated on 30/07/2026 20:00:36 UTC
 <!--END_SECTION:waka-->
