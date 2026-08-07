@@ -32,6 +32,10 @@
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%2030%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2012%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -46,6 +50,51 @@
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                31 commits          █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+🌆 Daytime                18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+🌃 Evening                73 commits          █████████████░░░░░░░░░░░░   51.77 % 
+🌙 Night                  19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Tuesday                  23 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Wednesday                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Thursday                 25 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Friday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Saturday                 18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Sunday                   15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -62,5 +111,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:22:25 UTC
+ Last Updated on 07/08/2026 19:27:48 UTC
 <!--END_SECTION:waka-->
