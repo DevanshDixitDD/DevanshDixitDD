@@ -77,40 +77,22 @@ Sunday                   15 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 5 mins         ██████████████████████░░░   86.96 % 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              1 hr 15 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-des-portfolio-2026       1 hr 15 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 15 mins (100.0%)
-
-✍️ 104 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 287,145 Input Tokens, 60,463 Output Tokens
-
-💵 $7.45 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 9 AI Prompts
-
-Sonnet                   111 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 348 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -129,5 +111,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 19:05:49 UTC
+ Last Updated on 22/08/2026 18:57:06 UTC
 <!--END_SECTION:waka-->
