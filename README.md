@@ -40,9 +40,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 573.1 kB Used in GitHub's Storage 
+> 📦 576.8 kB Used in GitHub's Storage 
  > 
-> 🏆 24 Contributions in the Year 2026
+> 🏆 26 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,21 +53,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                31 commits          █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
-🌆 Daytime                19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-🌃 Evening                74 commits          █████████████░░░░░░░░░░░░   51.75 % 
-🌙 Night                  19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+🌞 Morning                31 commits          █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+🌆 Daytime                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+🌃 Evening                75 commits          █████████████░░░░░░░░░░░░   51.72 % 
+🌙 Night                  19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   22 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Tuesday                  23 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Wednesday                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Thursday                 25 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Friday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Saturday                 18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Sunday                   15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Monday                   24 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Tuesday                  23 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Wednesday                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Thursday                 25 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Friday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Saturday                 18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Sunday                   15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
 ```
 
 
@@ -77,43 +77,41 @@ Sunday                   15 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 11 mins       ███████████████████████░░   92.94 % 
-MDX                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+TypeScript               2 hrs 41 mins       ████████████████████████░   96.06 % 
+Git                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       █████████████████░░░░░░░░   67.36 % 
-Claude Code              1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   32.64 % 
+VS Code                  2 hrs 7 mins        ███████████████████░░░░░░   75.49 % 
+Claude Code              41 mins             ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
 
 🐱‍💻 Projects: 
-des-portfolio-2026       3 hrs 26 mins       █████████████████████████   100.00 % 
+des-portfolio-2026       2 hrs 48 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 15 mins (36.8%)
+⏱ AI Coding Time: 46 mins (27.39%)
 
-✍️ 369 lines written by AI, 32 lines written by hand (92.02% AI-written)
+✍️ 48 lines written by AI, 29 lines written by hand (62.34% AI-written)
 
-🔤 1,147,871 Input Tokens, 103,154 Output Tokens
+🔤 1,239,591 Input Tokens, 48,435 Output Tokens
 
-💵 $7.74 Estimated AI Cost This Week
+💵 $7.26 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 13 AI Prompts
+🧠 3 AI Sessions, 6 AI Prompts
 
-Sonnet                   381 lines           █████████████████████████   100.00 % 
+Sonnet                   60 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.02% of written lines came from AI
-📄 Detailed Prompter — average 580 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 11.81% of changed lines were hand-edited
+⚖️ Balanced with AI — 62.34% of written lines came from AI
+📝 Concise Prompter — average 63 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 48.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -132,5 +130,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 21:44:44 UTC
+ Last Updated on 06/10/2026 00:13:50 UTC
 <!--END_SECTION:waka-->
