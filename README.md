@@ -36,7 +36,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -77,41 +77,41 @@ Sunday                   15 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 30 mins       ████████████████████████░   95.77 % 
-Git                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+TypeScript               52 mins             ██████████████████████░░░   88.97 % 
+Git                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-VS Code                  1 hr 43 mins        ████████████████░░░░░░░░░   65.82 % 
-Claude Code              53 mins             █████████░░░░░░░░░░░░░░░░   34.18 % 
+Claude Code              34 mins             ███████████████░░░░░░░░░░   58.56 % 
+VS Code                  24 mins             ██████████░░░░░░░░░░░░░░░   41.44 % 
 
 🐱‍💻 Projects: 
-des-portfolio-2026       2 hrs 36 mins       █████████████████████████   100.00 % 
+des-portfolio-2026       59 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  59 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 59 mins (38.21%)
+⏱ AI Coding Time: 39 mins (66.12%)
 
-✍️ 151 lines written by AI, 23 lines written by hand (86.78% AI-written)
+✍️ 142 lines written by AI, 5 lines written by hand (96.6% AI-written)
 
-🔤 1,163,852 Input Tokens, 75,626 Output Tokens
+🔤 643,740 Input Tokens, 63,801 Output Tokens
 
-💵 $8.77 Estimated AI Cost This Week
+💵 $6.04 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 8 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
-Sonnet                   164 lines           █████████████████████████   100.00 % 
+Sonnet                   155 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.78% of written lines came from AI
-📝 Concise Prompter — average 79 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 22.27% of changed lines were hand-edited
+🤖 AI-Driven — 96.6% of written lines came from AI
+📝 Concise Prompter — average 100 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 9.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -130,5 +130,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 21:55:18 UTC
+ Last Updated on 11/10/2026 22:14:56 UTC
 <!--END_SECTION:waka-->
