@@ -32,9 +32,9 @@
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -77,39 +77,40 @@ Sunday                   15 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               27 mins             █████████████████████████   100.00 % 
+TypeScript               1 hr 45 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              25 mins             ████████████████████████░   94.50 % 
-VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Claude Code              55 mins             █████████████░░░░░░░░░░░░   52.57 % 
+VS Code                  49 mins             ████████████░░░░░░░░░░░░░   47.43 % 
 
 🐱‍💻 Projects: 
-des-portfolio-2026       27 mins             █████████████████████████   100.00 % 
+des-portfolio-2026       1 hr 45 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 mins (99.9%)
+⏱ AI Coding Time: 1 hr 17 mins (73.39%)
 
-✍️ 103 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 156 lines written by AI, 9 lines written by hand (94.55% AI-written)
 
-🔤 363,174 Input Tokens, 53,105 Output Tokens
+🔤 429,582 Input Tokens, 92,391 Output Tokens
 
-💵 $4.25 Estimated AI Cost This Week
+💵 $5.78 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 3 AI Sessions, 8 AI Prompts
 
-Sonnet                   116 lines           █████████████████████████   100.00 % 
+Sonnet                   116 lines           █████████████████░░░░░░░░   68.64 % 
+Opus                     53 lines            ████████░░░░░░░░░░░░░░░░░   31.36 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 100 characters per prompt
+🤖 AI-Driven — 94.55% of written lines came from AI
+📝 Concise Prompter — average 282 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 9.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -128,5 +129,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 21:51:43 UTC
+ Last Updated on 15/10/2026 21:35:58 UTC
 <!--END_SECTION:waka-->
