@@ -77,40 +77,40 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 16 mins       █████████████████████████   99.81 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+TypeScript               1 hr 59 mins        █████████████████████████   99.69 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 6 mins        ████████████████░░░░░░░░░   64.14 % 
-Claude Code              1 hr 10 mins        █████████░░░░░░░░░░░░░░░░   35.86 % 
+VS Code                  1 hr 18 mins        ████████████████░░░░░░░░░   65.38 % 
+Claude Code              41 mins             █████████░░░░░░░░░░░░░░░░   34.62 % 
 
 🐱‍💻 Projects: 
-des-portfolio-2026       3 hrs 17 mins       █████████████████████████   100.00 % 
+des-portfolio-2026       1 hr 59 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 50 mins (55.75%)
+⏱ AI Coding Time: 1 hr (50.37%)
 
-✍️ 470 lines written by AI, 182 lines written by hand (72.09% AI-written)
+✍️ 417 lines written by AI, 173 lines written by hand (70.68% AI-written)
 
-🔤 245,272 Input Tokens, 98,312 Output Tokens
+🔤 178,864 Input Tokens, 59,026 Output Tokens
 
-💵 $5.49 Estimated AI Cost This Week
+💵 $3.96 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 12 AI Prompts
+🧠 1 AI Sessions, 7 AI Prompts
 
-Opus                     489 lines           █████████████████████████   100.00 % 
+Opus                     436 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 72.09% of written lines came from AI
-📝 Concise Prompter — average 221 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 31.13% of changed lines were hand-edited
+🤖 AI-Driven — 70.68% of written lines came from AI
+📝 Concise Prompter — average 100 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 31.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -129,5 +129,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 21:52:49 UTC
+ Last Updated on 22/10/2026 21:50:03 UTC
 <!--END_SECTION:waka-->
