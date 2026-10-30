@@ -77,39 +77,39 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 49 mins        ████████████████████████░   96.04 % 
-JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+TypeScript               1 hr 48 mins        ████████████████████████░   96.01 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         ██████████████░░░░░░░░░░░   54.88 % 
-Claude Code              51 mins             ███████████░░░░░░░░░░░░░░   45.12 % 
+VS Code                  1 hr 1 min          ██████████████░░░░░░░░░░░   54.46 % 
+Claude Code              51 mins             ███████████░░░░░░░░░░░░░░   45.54 % 
 
 🐱‍💻 Projects: 
-des-portfolio-2026       1 hr 53 mins        █████████████████████████   100.00 % 
+des-portfolio-2026       1 hr 52 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 53 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 52 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 11 mins (62.75%)
+⏱ AI Coding Time: 1 hr 11 mins (63.33%)
 
 ✍️ 147 lines written by AI, 8 lines written by hand (94.84% AI-written)
 
-🔤 1,357,552 Input Tokens, 53,880 Output Tokens
+🔤 1,177,236 Input Tokens, 52,869 Output Tokens
 
-💵 $9.84 Estimated AI Cost This Week
+💵 $9.05 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 18 AI Prompts
+🧠 2 AI Sessions, 17 AI Prompts
 
 Opus                     152 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 94.84% of written lines came from AI
-📝 Concise Prompter — average 83 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 82 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 16.02% of changed lines were hand-edited
 ```
 
@@ -129,5 +129,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshDixitDD/DevanshDixitDD/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 22:54:15 UTC
+ Last Updated on 30/10/2026 22:33:04 UTC
 <!--END_SECTION:waka-->
